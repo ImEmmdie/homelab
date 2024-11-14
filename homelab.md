@@ -1,7 +1,7 @@
 # My homelab 
 
 ## homepage
-![enter image description here](https://i.imgur.com/SegInu6.png)
+![homepage](https://i.imgur.com/SegInu6.png)
 
 
 # Main "deimos"
@@ -82,5 +82,5 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNTU0NTQwXX0=
+eyJoaXN0b3J5IjpbMjc2MDg2MzAzLDc1MDU1NDU0MF19
 -->
