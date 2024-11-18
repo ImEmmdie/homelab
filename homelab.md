@@ -62,7 +62,12 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 
 ## permanent vm
 * OpenMediavault  
+* windows for 4K torrenting with 500gb ssd assign 
 --- --> 2TB SHARE "NAS2TO" / 1TB SHARE "NAS2TO"
+
+## misc
+* use to create some various VM and CT to try things or mess around 
+
 
 
 ## NAS SHARES
@@ -83,7 +88,7 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNTIxNTk4LC0xODUyNjcxNjgwLC01NT
+eyJoaXN0b3J5IjpbMjA0MzE0OTA5LC0xODUyNjcxNjgwLC01NT
 IwODIxMDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYz
 MDMsNzUwNTU0NTQwXX0=
 -->
