@@ -14,6 +14,7 @@ minisforum NAB6 LITE mini PC
 * 32GB DDR4-3200
 * 512GB NVME SSD KINGSTON
 * 1TB HDD SATA HITACHI
+* 4TB EXTERNAL HDD 
 * 2x 2.5GB LAN ETHERNET PORT
 
 ## containers
@@ -82,6 +83,7 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjA4MjEwOSwtMjAyNDM5MTY4OSwxOT
-YyNDQ0OTE4LDI3NjA4NjMwMyw3NTA1NTQ1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4NTI2NzE2ODAsLTU1MjA4MjEwOSwtMj
+AyNDM5MTY4OSwxOTYyNDQ0OTE4LDI3NjA4NjMwMyw3NTA1NTQ1
+NDBdfQ==
 -->
