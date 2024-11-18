@@ -71,7 +71,7 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 
 ## network shares
 * deimos 
---> 1TB HDD share for torrent
+--> 1TB HDD share for torrent for temporary movies/show and download then transferred to 4TB EXT drive with all Plex libraries
 
 * phobos
 --> NAS1TO timemachine share
@@ -82,6 +82,6 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNz
-YwODYzMDMsNzUwNTU0NTQwXX0=
+eyJoaXN0b3J5IjpbLTU1MjA4MjEwOSwtMjAyNDM5MTY4OSwxOT
+YyNDQ0OTE4LDI3NjA4NjMwMyw3NTA1NTQ1NDBdfQ==
 -->
