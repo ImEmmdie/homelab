@@ -61,8 +61,8 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 * 1TB HDD SEAGATE
 
 ## permanent vm
-* OpenMediavault NAS 
- --> 2TB SHARE "NAS2TO" / 1TB SHARE "NAS2TO"
+* OpenMediavault  
+--- --> 2TB SHARE "NAS2TO" / 1TB SHARE "NAS2TO"
 
 
 ## NAS SHARES
@@ -83,7 +83,7 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDcxMTc1LC0xODUyNjcxNjgwLC01NT
+eyJoaXN0b3J5IjpbOTczNTIxNTk4LC0xODUyNjcxNjgwLC01NT
 IwODIxMDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYz
 MDMsNzUwNTU0NTQwXX0=
 -->
