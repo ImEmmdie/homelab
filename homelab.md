@@ -53,10 +53,10 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 * 32GB DDR4-2133 MIX-MATCHED
 * NVIDIA GEFORCE GTX 1060 6GB
 * 1GB ETHERNET LAN
-* 250GB SSD Samsung 850-EVO
-* 500GB SSD KINGSTON
-* 128GB SSD TOSHIBA
-* 128GB SSD ADATA
+* 250GB SATA SSD Samsung 850-EVO
+* 500GB SATA SSD KINGSTON
+* 128GB SATA SSD TOSHIBA
+* 128GB SATA SSD ADATA
 * 2TB HDD WESTERN DIGITAL
 * 1TB HDD SEAGATE
 
@@ -88,7 +88,7 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzE0OTA5LC0xODUyNjcxNjgwLC01NT
-IwODIxMDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYz
-MDMsNzUwNTU0NTQwXX0=
+eyJoaXN0b3J5IjpbMTU3MTUyMDUyNSwyMDQzMTQ5MDksLTE4NT
+I2NzE2ODAsLTU1MjA4MjEwOSwtMjAyNDM5MTY4OSwxOTYyNDQ0
+OTE4LDI3NjA4NjMwMyw3NTA1NTQ1NDBdfQ==
 -->
