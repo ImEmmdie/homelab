@@ -8,6 +8,8 @@
 
 minisforum NAB6 LITE mini PC
 
+On all the time 24/7 
+
 ## specs
 
 * 12th Gen Intel i5-12600H (16) @ 4.500GHz
@@ -46,6 +48,8 @@ minisforum NAB6 LITE mini PC
 # PHOBOS
 
 old desktop repurposed as a server since I don't use windows as a desktop or main operating system anymore
+
+Do not run all the time turned on and off remotely when needed.
 
 ## specs
 
@@ -88,7 +92,7 @@ old desktop repurposed as a server since I don't use windows as a desktop or mai
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODM2NjIwMSwyMDQzMTQ5MDksLTE4NT
-I2NzE2ODAsLTU1MjA4MjEwOSwtMjAyNDM5MTY4OSwxOTYyNDQ0
-OTE4LDI3NjA4NjMwMyw3NTA1NTQ1NDBdfQ==
+eyJoaXN0b3J5IjpbLTU0MDI2Mjk0MCwxNzc4MzY2MjAxLDIwND
+MxNDkwOSwtMTg1MjY3MTY4MCwtNTUyMDgyMTA5LC0yMDI0Mzkx
+Njg5LDE5NjI0NDQ5MTgsMjc2MDg2MzAzLDc1MDU1NDU0MF19
 -->
