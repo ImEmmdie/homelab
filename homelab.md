@@ -36,7 +36,7 @@ On all the time 24/7
 * 240 (ubuntu-desktop)
 * 250 (openmediavault)
 * --> 1TB HDD SHARE "torrent"
-* 251 (openmediavault time machine)
+* 251 (openmediavault time machine) --> separated from other OMV in case something break
 * --> 1TB EXTERNAL DRIVE FOR TIME MACHINE BACKUP 
 
 
@@ -97,8 +97,8 @@ Do not run all the time turned on and off remotely when needed.
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDQ1MjQwNiwtNTQwMjYyOTQwLDE3Nz
-gzNjYyMDEsMjA0MzE0OTA5LC0xODUyNjcxNjgwLC01NTIwODIx
-MDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYzMDMsNz
-UwNTU0NTQwXX0=
+eyJoaXN0b3J5IjpbODI4ODAxMDUxLDE3NzQ0NTI0MDYsLTU0MD
+I2Mjk0MCwxNzc4MzY2MjAxLDIwNDMxNDkwOSwtMTg1MjY3MTY4
+MCwtNTUyMDgyMTA5LC0yMDI0MzkxNjg5LDE5NjI0NDQ5MTgsMj
+c2MDg2MzAzLDc1MDU1NDU0MF19
 -->
