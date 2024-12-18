@@ -49,8 +49,7 @@ On all the time 24/7
 
 # PHOBOS
 
-old desktop repurposed as a server since I don't use windows as a desktop or main operating system anymore
-
+Desktop tower , dual boot proxmox (primary for wake on lan auto lunch) and windows 10 for casual gaming.
 Do not run all the time turned on and off remotely when needed.
 
 ## specs
@@ -98,8 +97,8 @@ Do not run all the time turned on and off remotely when needed.
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTgxODMwLC01NDAyNjI5NDAsMTc3OD
-M2NjIwMSwyMDQzMTQ5MDksLTE4NTI2NzE2ODAsLTU1MjA4MjEw
-OSwtMjAyNDM5MTY4OSwxOTYyNDQ0OTE4LDI3NjA4NjMwMyw3NT
-A1NTQ1NDBdfQ==
+eyJoaXN0b3J5IjpbODUzMDQwMjAsLTU0MDI2Mjk0MCwxNzc4Mz
+Y2MjAxLDIwNDMxNDkwOSwtMTg1MjY3MTY4MCwtNTUyMDgyMTA5
+LC0yMDI0MzkxNjg5LDE5NjI0NDQ5MTgsMjc2MDg2MzAzLDc1MD
+U1NDU0MF19
 -->
