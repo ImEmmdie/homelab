@@ -40,8 +40,6 @@ On all the time 24/7
 * --> 1TB EXTERNAL DRIVE FOR TIME MACHINE BACKUP 
 
 
-## visual of the CT & VM
-![enter image description here](https://i.imgur.com/qJPGkmQ.png)
 
 ## internet speed
 ![speedtest](https://i.imgur.com/GSAFgF2.png)
@@ -100,8 +98,8 @@ Do not run all the time turned on and off remotely when needed.
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjkwODg0MywtNTQwMjYyOTQwLDE3Nz
-gzNjYyMDEsMjA0MzE0OTA5LC0xODUyNjcxNjgwLC01NTIwODIx
-MDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYzMDMsNz
-UwNTU0NTQwXX0=
+eyJoaXN0b3J5IjpbMTQ4OTgxODMwLC01NDAyNjI5NDAsMTc3OD
+M2NjIwMSwyMDQzMTQ5MDksLTE4NTI2NzE2ODAsLTU1MjA4MjEw
+OSwtMjAyNDM5MTY4OSwxOTYyNDQ0OTE4LDI3NjA4NjMwMyw3NT
+A1NTQ1NDBdfQ==
 -->
