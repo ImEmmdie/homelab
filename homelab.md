@@ -62,8 +62,8 @@ Do not run all the time turned on and off remotely when needed.
 * 500GB SATA SSD KINGSTON  --> WIN10 BOOT DRIVE
 * 128GB SATA SSD TOSHIBA --> PROXMOX BOOT DRIVE
 * 128GB SATA SSD ADATA --> MISC VM FOR TEST 
-* 2TB HDD WESTERN DIGITAL
-* 1TB HDD SEAGATE
+* 2TB HDD WESTERN DIGITAL --> NAS SHARE
+* 1TB HDD SEAGATE --> NAS SAHRE
 
 ## permanent vm
 * OpenMediavault  
@@ -97,8 +97,8 @@ Do not run all the time turned on and off remotely when needed.
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEzMzM1OTIsLTU0MDI2Mjk0MCwxNz
-c4MzY2MjAxLDIwNDMxNDkwOSwtMTg1MjY3MTY4MCwtNTUyMDgy
-MTA5LC0yMDI0MzkxNjg5LDE5NjI0NDQ5MTgsMjc2MDg2MzAzLD
-c1MDU1NDU0MF19
+eyJoaXN0b3J5IjpbMTc3NDQ1MjQwNiwtNTQwMjYyOTQwLDE3Nz
+gzNjYyMDEsMjA0MzE0OTA5LC0xODUyNjcxNjgwLC01NTIwODIx
+MDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYzMDMsNz
+UwNTU0NTQwXX0=
 -->
