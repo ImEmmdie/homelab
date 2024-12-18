@@ -58,16 +58,16 @@ Do not run all the time turned on and off remotely when needed.
 * 32GB DDR4-2133 MIX-MATCHED
 * NVIDIA GEFORCE GTX 1060 6GB
 * 1GB ETHERNET LAN
-* 250GB SATA SSD Samsung 850-EVO
-* 500GB SATA SSD KINGSTON
-* 128GB SATA SSD TOSHIBA
+* 250GB SATA SSD Samsung 850-EVO 
+* 500GB SATA SSD KINGSTON 
+* 128GB SATA SSD TOSHIBA 
 * 128GB SATA SSD ADATA
 * 2TB HDD WESTERN DIGITAL
 * 1TB HDD SEAGATE
 
 ## permanent vm
 * OpenMediavault  
-* windows for 4K torrenting with 500gb sata ssd assign for download
+* windows for 4K torrenting with 250gb sata ssd assign for download
 --- --> 2TB SHARE "NAS2TO" / 1TB SHARE "NAS2TO"
 
 ## misc
@@ -97,8 +97,8 @@ Do not run all the time turned on and off remotely when needed.
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzMDQwMjAsLTU0MDI2Mjk0MCwxNzc4Mz
-Y2MjAxLDIwNDMxNDkwOSwtMTg1MjY3MTY4MCwtNTUyMDgyMTA5
-LC0yMDI0MzkxNjg5LDE5NjI0NDQ5MTgsMjc2MDg2MzAzLDc1MD
-U1NDU0MF19
+eyJoaXN0b3J5IjpbMjE0MzI5NTA5NiwtNTQwMjYyOTQwLDE3Nz
+gzNjYyMDEsMjA0MzE0OTA5LC0xODUyNjcxNjgwLC01NTIwODIx
+MDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYzMDMsNz
+UwNTU0NTQwXX0=
 -->
