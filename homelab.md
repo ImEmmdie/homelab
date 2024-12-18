@@ -87,7 +87,7 @@ Do not run all the time turned on and off remotely when needed.
 * deimos torrent
 --> 1TB HDD share for torrent for temporary movies/show and download then transferred to 4TB EXT drive with all Plex libraries
 * deimos Mac backup
---> 1TB HDD share for Time Machine backup and servers 
+--> 1TB HDD share for Time Machine backup for my Mac's 
 
 
 
@@ -100,8 +100,8 @@ Do not run all the time turned on and off remotely when needed.
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU5ODMxMTYsLTU0MDI2Mjk0MCwxNz
-c4MzY2MjAxLDIwNDMxNDkwOSwtMTg1MjY3MTY4MCwtNTUyMDgy
-MTA5LC0yMDI0MzkxNjg5LDE5NjI0NDQ5MTgsMjc2MDg2MzAzLD
-c1MDU1NDU0MF19
+eyJoaXN0b3J5IjpbLTg2MjkwODg0MywtNTQwMjYyOTQwLDE3Nz
+gzNjYyMDEsMjA0MzE0OTA5LC0xODUyNjcxNjgwLC01NTIwODIx
+MDksLTIwMjQzOTE2ODksMTk2MjQ0NDkxOCwyNzYwODYzMDMsNz
+UwNTU0NTQwXX0=
 -->
