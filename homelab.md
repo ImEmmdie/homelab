@@ -16,6 +16,7 @@ On all the time 24/7
 * 32GB DDR4-3200
 * 512GB NVME SSD KINGSTON
 * 1TB HDD SATA HITACHI
+* 1TB EXTERNAL HDD
 * 4TB EXTERNAL HDD 
 * 2x 2.5GB LAN ETHERNET PORT
 
@@ -35,6 +36,9 @@ On all the time 24/7
 * 240 (ubuntu-desktop)
 * 250 (openmediavault)
 * --> 1TB HDD SHARE "torrent"
+* 251 (openmediavault time machine)
+* --> 1TB EXTERNAL DRIVE FOR TIME MACHINE BACKUP 
+
 
 ## visual of the CT & VM
 ![enter image description here](https://i.imgur.com/qJPGkmQ.png)
@@ -92,7 +96,8 @@ Do not run all the time turned on and off remotely when needed.
 ![enter image description here](https://i.imgur.com/uj1oDq1.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDI2Mjk0MCwxNzc4MzY2MjAxLDIwND
-MxNDkwOSwtMTg1MjY3MTY4MCwtNTUyMDgyMTA5LC0yMDI0Mzkx
-Njg5LDE5NjI0NDQ5MTgsMjc2MDg2MzAzLDc1MDU1NDU0MF19
+eyJoaXN0b3J5IjpbLTEwNjkxMTUyNjQsLTU0MDI2Mjk0MCwxNz
+c4MzY2MjAxLDIwNDMxNDkwOSwtMTg1MjY3MTY4MCwtNTUyMDgy
+MTA5LC0yMDI0MzkxNjg5LDE5NjI0NDQ5MTgsMjc2MDg2MzAzLD
+c1MDU1NDU0MF19
 -->
