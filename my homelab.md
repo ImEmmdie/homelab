@@ -39,6 +39,7 @@ Its running Proxmox and here are the specs and what services , containers, visua
 
 ## virtual machines
 * 230 (win-plex) only run plex
+* --> 4TB USB HDD FOR PLEX LIBRARY
 * 231 (win-torrent) run Sonarr, Radarr, Prowlarr
 * 233 (win-handbrake) used to run handreak and manage files
 * 240 (ubuntu-desktop)
