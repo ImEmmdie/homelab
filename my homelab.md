@@ -1,8 +1,3 @@
----
-title: my homelab
-
----
-
 # Emmdie Homelab / workstation setup
 
 Hey , here is a little list of my personal homelab , and the setup I'm running nothings too crazy I've been getting into homelab and self-hosted services for a while now some for years other just getting started.
