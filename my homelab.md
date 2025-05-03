@@ -56,7 +56,7 @@ Its running Proxmox and here are the specs and what services , containers, visua
 
 # PHOBOS
 
-Desktop tower , dual boot proxmox (primary for wake on lan auto lunch) and windows 10 for casual gaming.
+Desktop tower , dual boot proxmox (primary for wake on lan auto lunch) and windows 11 for casual gaming.
 Do not run all the time turned on and off remotely when needed.
 
 ## specs
