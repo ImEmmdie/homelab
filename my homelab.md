@@ -7,7 +7,7 @@ Hey , here is a little list of my personal homelab , and the setup I'm running n
 my homelab is consisted of 2 computer , main one is deimos second one is phobos
 
 ## homepage
-![homepage](https://i.imgur.com/6jCQPl1.png)
+![homepage](https://imgur.com/a/AdXpGp8)
 
 ## Deimos 
 deimos run 24H non stop (unless theirs a power cut or something like this)
