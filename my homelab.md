@@ -84,7 +84,7 @@ Do not run all the time turned on and off remotely when needed.
 * use this server to run some new services, try software and test things out in general before I get comfortable , knowledgeable enough to use on the main server
 
 ## neofetch of servers
-![enter image description here](https://i.imgur.com/uj1oDq1.png)
+![](https://i.imgur.com/uj1oDq1.png)
 
 
 
@@ -111,14 +111,20 @@ it is fixed under the laptop stand
 
 
 ## Main laptop 
-* MacBook Air M2 16GB RAM 256GB SSD
+* MacBook Air 2022 M2 16GB RAM 256GB SSD
 * --> mostly used not docked but when it is use 2K monitor and iPad Air 13" for multiple screen usage on desk 
+
+* specs:
+![](https://i.imgur.com/JpH2osA.png)
+
 ## Second laptop used as a desktop Mac
 * MacBook Pro 2020 with a Intel i5-1038NG7 16GB RAM 512GB SSD
 * used as a desktop computer almost all the time unless I go where I need a laptop where I don't want to risk accident or damage on my laptop
 * --> connected to 2K monitor running at 120hz and the vertical 1080p monitor sometime use iPad Air 13" as third monitor but very rare
+
 ## Ipad
 * iPad Air M2 13" 256GB with Apple Pencil pro 
 * --> used as second portable screen if needed or at desk but main otherwise used for watching stuff and mainly drawing my tattoo designs
+
 ## Iphone
 * iPhone 14 256GB 
