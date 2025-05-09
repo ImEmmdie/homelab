@@ -49,8 +49,9 @@ Its running Proxmox and here are the specs and what services , containers, visua
 * --> 1TB EXTERNAL DRIVE FOR NAS STORAGE SHARE ONLY
 
 
-## Using the 2.5GB port I'm able to pull thoses speed
-![speedtest](https://i.imgur.com/GSAFgF2.png)
+## Using the 2.5GB port I'm able to pull thoses speed 
+* Im using french ISP router (will upgrade later) have a subsciption for 2GB download and 1GB upload
+![speedtest](https://i.imgur.com/P8iInEY.png)
 
 
 
