@@ -124,7 +124,7 @@ it is fixed under the laptop stand
 
 ## Ipad
 * iPad Air M2 13" 256GB with Apple Pencil pro 
-* --> used as second portable screen if needed or at desk but main otherwise used for watching stuff and mainly drawing my tattoo designs
+* --> used as second portable screen if needed or at desk but otherwise used for watching stuff and mainly drawing my tattoo designs
 
 ## Iphone
 * iPhone 14 256GB 
