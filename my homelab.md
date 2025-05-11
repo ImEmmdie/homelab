@@ -122,6 +122,8 @@ it is fixed under the laptop stand
 * used as a desktop computer almost all the time unless I go where I need a laptop where I don't want to risk accident or damage on my laptop
 * --> connected to 2K monitor running at 120hz and the vertical 1080p monitor sometime use iPad Air 13" as third monitor but very rare
 
+* specs:
+![](https://i.imgur.com/VIFkM3G.png)
 ## Ipad
 * iPad Air M2 13" 256GB with Apple Pencil pro 
 * --> used as second portable screen if needed or at desk but otherwise used for watching stuff and mainly drawing my tattoo designs
