@@ -53,7 +53,28 @@ Its running Proxmox and here are the specs and what services , containers, visua
 * Im using french ISP router (will upgrade later) have a subsciption for 2GB download and 1GB upload
 ![speedtest](https://i.imgur.com/P8iInEY.png)
 
+# NAS
 
+UGREEN dXP4800
+4HDD SLOT 2 M.2 SSD SLOT upgradable RAM
+
+Configured in RAID 5 (3 Drive for storage 1 drive for parity in case of failure) 21.5TB USABLE
+
+for now do not use the M.2 SSD but will later be used when i get a better network switch capable of over 1GB because my router only have 1 10GB port 
+
+will be used for fast SSD only volume NAS probably no backup only tempary fast storage / working directory 
+
+## specs
+
+* Intel(R) N100 4c/4t
+* 8GB DDR5
+* 2x 2.5GB LAN
+* 4 x Seagate BarraCuda 8TB
+* 2x M.2 SSD SLOT (not used)
+
+## storage pool
+
+![storage pool](https://i.imgur.com/dk913HI.png)
 
 # PHOBOS
 
