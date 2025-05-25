@@ -2,9 +2,24 @@
 
 Hey , here is a little list of my personal homelab , and the setup I'm running nothings too crazy I've been getting into homelab and self-hosted services for a while now some for years other just getting started.
 
+I've been a "data hoarder" for a long time and been into self-hosting for years and i've been playing around with it and learning too.
+I've been using my "old" computer at first to make my first servers etc, Now i'm trying to make it the most practical, efficient and "most stable" i can while still having fun messing around with different stuff.
+# next step to improve
+I'm improving everything step by step when i can my next steps would be 
+
+-getting a UPS for power loss (just to protect the hardware because where i live i'm not proned to them often or at all unless theirs a weather issue but warned about beforehand)
+
+-getting a 2.5GB/10GB switch so that my NAS is able to benefit from it 
+
+-Maybe in the not near future get a second server for PLEX only where i could use Transcoding if i need to because for now i don't need it but as it grow bigger with more user i might need it later 
+
+-Modeling a custom rack that could be 3D printed 
+
+-Getting a 3D printer And/Or buying a 3D printed custom rack 
+
 # First my homelab
 
-my homelab is consisted of 2 computer , main one is deimos second one is phobos
+my homelab is consisted of 1 server and a Ugreen NAS for storage my second computer (desktop tower) is also used sometimes but rarely only for testing , main one is deimos second one is phobos
 
 ## homepage
 ![homepage](https://i.imgur.com/ciSFnxj.png)
@@ -22,7 +37,6 @@ Its running Proxmox and here are the specs and what services , containers, visua
 * 1TB HDD SATA HITACHI
 * 1TB EXTERNAL HDD
 * 1TB EXTERNAL HDD
-* 4TB EXTERNAL HDD 
 * 2x 2.5GB LAN ETHERNET PORT
 
 ## containers
@@ -37,12 +51,11 @@ Its running Proxmox and here are the specs and what services , containers, visua
 
 ## virtual machines
 * 230 (win-plex) only run plex
-* --> 4TB USB HDD FOR PLEX LIBRARY
 * 231 (win-torrent) run Sonarr, Radarr, Prowlarr
 * 233 (win-handbrake) used to run handreak and manage files
 * 240 (ubuntu-desktop)
 * 250 (openmediavault)
-* --> 1TB HDD SHARE "torrent" FOR TORRENTS ONLY
+* --> 1TB HDD SHARE "torrent" FOR TORRENTS ONLY "BACKUP NOW"
 * 251 (openmediavault-time-machine) 
 * --> 1TB EXTERNAL DRIVE FOR TIME MACHINE BACKUP ONLY
 * 252 (openmediavault-nas) 
