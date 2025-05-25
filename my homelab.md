@@ -90,10 +90,10 @@ will be used for fast SSD only volume NAS probably no backup only tempary fast s
 ![storage pool](https://i.imgur.com/dk913HI.png)
 
 ## Network Shares
--> Plex 
--> Personal/Backup data 
--> TimeMachineBackup
--> NAS (used for quick transfer between different machines)
+* Plex 
+* Personal/Backup data 
+* TimeMachineBackup
+* NAS (used for quick transfer between different machines)
 
 
 # PHOBOS
