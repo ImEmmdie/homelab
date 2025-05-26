@@ -88,7 +88,7 @@ will be used for fast SSD only volume NAS probably no backup only tempary fast s
 
 # PHOBOS
 
-Desktop tower , dual boot proxmox (primary for wake on lan auto lunch) and windows 11 for casual gaming.
+Desktop tower , dual boot proxmox (proxmox is set on primary boot for wake on lan auto lunch) and windows 11 for casual gaming.
 Do not run all the time turned on and off remotely when needed.
 
 ## specs
