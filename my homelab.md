@@ -21,11 +21,15 @@ I'm improving everything step by step when i can my next improvements would be :
 
 * Upgrading to a 2.5GB/10GB switch so that my NAS is able to benefit from it.
 
+*  Im looking into a SUPER LOW power consuption server (probably a PI) or other mini-pc with a external HDD that would be hosted at a family or friends house for data replication of my IMPORTANT data in case of emergency for now my solution have been COLD storage located at family/friends house and CLOUD storage for backup but having a LIVE backup option is gonna be on my next to do list.
+
 * Maybe in the not near future get a second server for PLEX only where i could use Transcoding if i need to because for now i don't need it but as it grow bigger with more user i might need it later.
 
 * Modeling a custom rack that could be 3D printed.
 
 * Getting a 3D printer for various project i have and mostly make stuff to tidy up my homelab and make it more "compact" and clean looking but also some other personal project i've had for some time now.
+
+* Just added the NAS in MAY 2025 and i'm gonna probably be fine with that much storage for quite some times but who knows maybe as my data usage get greaters might need to get a second NAS ^-^ won't be SOON at all ! 
 
 # First my homelab
 
