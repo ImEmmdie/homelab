@@ -38,6 +38,8 @@ Its running Proxmox and here are the specs and what services , containers, visua
 * 206 (overseerr)
 * 207 (docker)
 * 208 (flaresolverr-backup)
+* 209 (speedtest)
+    ---> run speedtest every 30 minutes to check the stability of the internet connection 
 
 ## virtual machines
 * 230 (win-plex) only run plex
